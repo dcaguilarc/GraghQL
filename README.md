@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+To execute the project
+rails server
+http://localhost:3000/graphiql
+{
+Hellow
+}
